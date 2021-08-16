@@ -1,0 +1,15 @@
+#+TITLE: Who Should Play Chess?
+#+DESCRIPTION: 'testing description'
+#+DATE: 2021-08-16
+#+SLUG: 'who-should-play-chess'
+#+CATEGORIES[]: philosophy
+#+TAGS:
+#+DRAFT: true
+
+* Who?
+
+Testing headlines
+
+** Who 2?
+
+Testing testing testing

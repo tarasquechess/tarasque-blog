@@ -1,0 +1,25 @@
+#+TITLE: "Tarasque"?
+#+DESCRIPTION: 'testing description'
+#+DATE: 2021-08-16
+#+SLUG: 'tarasque'
+#+CATEGORIES[]: about
+#+TAGS:
+#+DRAFT: true
+
+The Tarasque (pronounced ter-RASK or tuh-RASK) is a mythological creature from
+France: a dragon-like chimera made up of parts from multiple animals. A
+dragon-like creature was desirable in order to pay homage to Grahamwood
+Elementary, whose mascot is the dragon. I have been involved with the chess club
+at Grahamwood since I was in kindergarten, back in 1997, and they have been a
+state-level champion and national high-level competitor for many of the
+intervening years.
+
+On a personal level, the choice of a dragon-like creature is a reference to a
+chess opening that I have played since second grade, the Sicilian Dragon. I have
+won many important games with this swashbuckling and dynamic line, and I have
+taught it to many children over the years.
+
+The name "Tarasque" is also similar to the name of Dr. Siegbert Tarrasch, a
+German chess player who was one of the best players in the world in the late
+1800s. He wrote many books on chess theory and chess instruction and was
+referred to as /Praeceptor Germaniae/, which is Latin for "Teacher of Germany".
