@@ -1,0 +1,9 @@
+name = "Jonathan Beatty"
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+bio = "TCN Administrator, Expert-level Chess Player, Memphis City Co-Champion 2016/2020"
+company = "Tarasque Chess"
+location = "Southeast USA"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+[params]
+  #layout = "compact"
